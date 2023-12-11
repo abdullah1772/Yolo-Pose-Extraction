@@ -1,4 +1,4 @@
-# Pose Detection and Extraction using YOLOv8
+# Pose Detection and Skeleton Extraction using YOLOv8
 
 ![git](https://github.com/abdullah1772/Yolo-Pose-Extraction/assets/88187437/ec963487-85ec-4913-b601-df2946e932ef)
 

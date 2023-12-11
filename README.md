@@ -25,11 +25,6 @@ To use this script, ensure you have a video file in the specified directory and 
 
 This script contains functions to assist in the extraction and processing of pose keypoints from the detected human figures.
 
-## Dependencies
-numpy
-matplotlib
-cv2 (OpenCV)
-
 ## Key Point Definitions
 
 The script includes definitions for various key points in the human body such as the nose, eyes, shoulders, elbows, hands, hips, knees, and feet.
